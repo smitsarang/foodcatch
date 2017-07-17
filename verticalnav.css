@@ -1,0 +1,22 @@
+.vn ul {	
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+}
+
+.vn li a {
+    display: block;
+    color: #000;
+    
+    padding-left: 10%;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+.vn li a:hover {
+    background-color: #555;
+    color: white;
+
+}
