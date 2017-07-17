@@ -75,8 +75,8 @@ require_once 'dbconnect.php';
   
   
 
-      <link rel="stylesheet" href="css1/loginstyle.css">
-<link rel="stylesheet" href="css1/header.css">
+      <link rel="stylesheet" href="loginstyle.css">
+<link rel="stylesheet" href="header.css">
   
 </head>
 
